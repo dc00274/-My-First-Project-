@@ -1,1 +1,1 @@
-# -My-First-Project-
+This a  project for my Web development class the main purpose of the website is to review comics form differnt comic book companies. Home is the Home page. Marvel is the page to review marvel comics.Dc is the page to review DC comics. Contact is where you go to contact me for advertisment.
